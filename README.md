@@ -1,22 +1,21 @@
 ### Hi there I'm [Abu Siddique](https://www.linkedin.com/in/abu-sidd/) 👋
 
 - 🔭 I’m a highly motivated and progress focussed web developer.
-- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate with other open source project.
 - 🥅 2021 Goals: Learn Redux. Next JS & tailwind CSS.
-- ⚡ Fun fact: Fun in Everything.
+- 📫 Reach me at: asrafeee@yahoo.com
+- ⚡ Fun fact: I'm Funny.
 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Github Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)][github]
+[![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://drive.google.com/file/d/1bAFYE8i9K-hrn-KW5pMORGTBiCkSDsXA/view?usp=sharing)
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/abu-sidd/
 [github]: https://github.com/abu-Sid/
-
-![](https://komarev.com/ghpvc/?username=abu-sid&color=blueviolet)
 
 ### Languages and Tools:
 
