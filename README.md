@@ -2,9 +2,9 @@
 
 - 🔭 I’m a highly motivated and progress focussed web developer.
 - 👯 I’m looking to collaborate with other open source project.
-- 🥅 2021 Goals: Learn Redux. Next JS & tailwind CSS.
-- 📫 Reach me at: asrafeee@yahoo.com
-- ⚡ Fun fact: I'm Funny.
+- 🥅 2021 Goals: Learn Typescript, Redux  & tailwind CSS.
+- 📫 Reach me at: siddique.abu001@gmail.com
+- ⚡ Fun fact: Still Thinking......
 
 ### Connect with me:
 
