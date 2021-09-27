@@ -10,11 +10,12 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Github Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)][github]
-[![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://drive.google.com/file/d/1bAFYE8i9K-hrn-KW5pMORGTBiCkSDsXA/view?usp=sharing)
+[<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=medium&logoColor=white">](https://dev.to/mirhussain)
+<!-- [![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://drive.google.com/file/d/1bAFYE8i9K-hrn-KW5pMORGTBiCkSDsXA/view?usp=sharing) -->
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/abu-sidd/
+[linkedin]: https://www.linkedin.com/in/abu-sid/
 [github]: https://github.com/abu-Sid/
 
 ### Languages and Tools:
@@ -45,4 +46,5 @@
 
 ---
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sid&card_width=550&show_icons=true&theme=radical)](https://github.com/iftekharhasanrifat)
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sid&card_width=550&show_icons=true&theme=radical)](https://github.com/iftekharhasanrifat)
+ -->
