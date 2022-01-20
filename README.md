@@ -8,7 +8,7 @@
 - 🔭 I’m a highly motivated and progress focussed web developer.
 - 🌱 Always try to learn modern technology.
 - - 👯 I’m looking to collaborate with other open source project.
-- 🥅 2021 Goals: Learn TypeScript, Next.js, React Native
+- 🥅 2022 Goals: Learn TypeScript, VueJS, Radis
 - ⚡ Fun fact: Still Thinking......
 
 
